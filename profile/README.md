@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nexxion-ai/.github/main/profile/assets/cover.png" alt="nexxion.ai — cloud · dev · ai · automation" width="900">
+  <img src="https://raw.githubusercontent.com/Nexxion-ai/.github/main/profile/assets/cover-contact.png" alt="nexxion.ai — cloud · dev · ai · automation" width="900">
 </div>
 
 <p align="center"><code>/// athens — est 2026</code></p>
